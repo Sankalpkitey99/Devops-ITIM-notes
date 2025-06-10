@@ -1,3 +1,4 @@
+# BASIC UNDERSTANDING
 # software 
 - more than just a program 
 - program is an executable code, which serves some computational purpose
