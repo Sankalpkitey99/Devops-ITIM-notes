@@ -88,3 +88,8 @@ EXPOSE 80
 docker build – t my-httpd .
 
 Docker container run – d – name mycontainer httpd p 9090:80 myhttpd:latest
+
+
+--------------------------------------------------------------------------
+
+Kubernetes cmds
